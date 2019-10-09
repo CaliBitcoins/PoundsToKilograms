@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PoundsToKilogramsTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-10-09T19:17:43" hostname="shine-VirtualBox" time="0.014">
+  <properties/>
+  <testcase name="conversionTest" classname="PoundsToKilogramsTest" time="0.014"/>
+  <system-out><![CDATA[1.4197441181000001
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
